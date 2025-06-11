@@ -1,0 +1,7 @@
+# Changelog
+- Increased the potency of Weapon effects.
+- Increased the potency of Talisman effects.
+- All relic slots are white.
+- Added FP regeneration to Duchess, Revenant and Recluse.
+- Added damage boost to Revenant's summons.
+- Added max HP boost and HP regeneration to Revenant's summons.
