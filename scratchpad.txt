@@ -1,7 +1,39 @@
+#-----------------------------------
 # Changelog
+#-----------------------------------
+# Gameplay
 - Increased the potency of Weapon effects.
 - Increased the potency of Talisman effects.
 - All relic slots are white.
 - Added FP regeneration to Duchess, Revenant and Recluse.
 - Added damage boost to Revenant's summons.
 - Added max HP boost and HP regeneration to Revenant's summons.
+- Halved most player attack stamina costs.
+
+# Garbs
+- Rebalanced the murk prices for garbs (TODO)
+- The legacy garbs are now purchasable upon Garb unlock, rather than after game clear.
+- Added more garb options for each character.
+- Certain garbs will now replace the starting weapons for a character.
+
+- Added Garbs:
+ - Wylder:
+  - Crucible Knight
+  
+ - Guardian:
+ 
+ - Ironeye:
+ 
+ - Duchess:
+ 
+ - Raider:
+ 
+ - Revenant:
+ 
+ - Recluse:
+ 
+ - Executor:
+
+# Notes
+- Garb icons now all use the base skin icon, this is to maintain visual uniformity as adding icons for all new garbs isn't possible right now.
+
