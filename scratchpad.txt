@@ -1,4 +1,9 @@
 #-----------------------------------
+# TODO
+#-----------------------------------
+Adjust Expedition table ESD so the commercing of an expedition happens automatically
+
+#-----------------------------------
 # Changelog
 #-----------------------------------
 # Gameplay
@@ -16,11 +21,17 @@
 # Relics
 - All relic slots are white.
 
+# Dormant Powers
+- Added in new tiers of powers for many effects (e.g. vanilla had a Common and Rare effect, Ascension adds in a Legendary effect).
+- All Dormant Power sources now roll from the complete table (vanilla tends to roll from a restricted table based on the source).
+
+
+
 # Shifting Earth
 - Added the ability to toggle which Shifting Earth is active at the Expedition table.
 
 # Garbs
-- Rebalanced the murk prices for garbs. TODO
+- Rebalanced the murk prices for garbs. 
 - The legacy garbs are now purchasable upon Garb unlock, rather than after game clear.
 - Added more garb options for each character.
 - Certain garbs will now replace the starting weapons for a character.
