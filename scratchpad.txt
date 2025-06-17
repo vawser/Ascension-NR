@@ -16,8 +16,6 @@
 - Added more garb options for each character.
 - Certain garbs will now replace the starting weapons for a character.
 
-82000000
-
 - Added Garbs:
  - Wylder:
   - Crucible Knight 
@@ -25,50 +23,40 @@
   - Knight 
   
  - Guardian: 
-  - Banished Knight # 18030000 / 32000000
-  - Briar # 3150000 / 32050000 
-  - Cleanrot # 16040000 / 19020000
+  - Banished Knight 
+  - Briar  
+  - Cleanrot 
  
  - Ironeye:
-  - Royal Remains # 41040000
-  - War Surgeon # 41070000 / 11060000
-  - Page # 43050000
- 
-    82160000
+  - Royal Remains 
+  - War Surgeon 
+  - Page 
  
  - Duchess:
-  - The All-Knowing # 11110000
-  - Black Knife # 1010000
-  - Eccentric # 3050000 / 30000000
+  - Exile
+  - Black Knife 
+  - Eccentric 
  
-    82210000
-    
  - Raider:
-  - Beast Champion # 12200000
-  - Tree Sentinel # 17020000
-  - The General # 4050000
+  - Beast Champion 
+  - Tree Sentinel 
+  - The General 
   
-    82240000
-    
  - Revenant:
   - Aberration
-  - Diminutive # 4050000
+  - Diminutive 
   - Consort 
   - Preceptor
   
-    82250000
-    
  - Recluse:
-  - Azur # 33230000
-  - Errant Sorcerer # 33200000
-  - Lusat # 33240000
+  - Azur 
+  - Errant Sorcerer 
+  - Lusat 
   
-    82280000
- 
  - Executor:
-  - Bloodhound # 22020000 / 8030000
-  - White Reed # 9010000
-  - The Blade # 9020000
+  - Bloodhound
+  - White Reed 
+  - The Blade 
 
 # Known issues
 - Garb menu icon for the new garbs is the base garb icon currently.
