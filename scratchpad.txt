@@ -11,29 +11,66 @@
 - Halved most player attack stamina costs.
 
 # Garbs
-- Rebalanced the murk prices for garbs (TODO)
+- Rebalanced the murk prices for garbs. TODO
 - The legacy garbs are now purchasable upon Garb unlock, rather than after game clear.
 - Added more garb options for each character.
 - Certain garbs will now replace the starting weapons for a character.
 
+82000000
+
 - Added Garbs:
  - Wylder:
-  - Crucible Knight
+  - Crucible Knight 
+  - Drake Knight 
+  - Knight 
   
- - Guardian:
+ - Guardian: 
+  - Banished Knight # 18030000 / 32000000
+  - Briar # 3150000 / 32050000 
+  - Cleanrot # 16040000 / 19020000
  
  - Ironeye:
+  - Royal Remains # 41040000
+  - War Surgeon # 41070000 / 11060000
+  - Page # 43050000
+ 
+    82160000
  
  - Duchess:
+  - The All-Knowing # 11110000
+  - Black Knife # 1010000
+  - Eccentric # 3050000 / 30000000
  
+    82210000
+    
  - Raider:
- 
+  - Beast Champion # 12200000
+  - Tree Sentinel # 17020000
+  - The General # 4050000
+  
+    82240000
+    
  - Revenant:
- 
+  - Aberration
+  - Diminutive # 4050000
+  - Consort 
+  - Preceptor
+  
+    82250000
+    
  - Recluse:
+  - Azur # 33230000
+  - Errant Sorcerer # 33200000
+  - Lusat # 33240000
+  
+    82280000
  
  - Executor:
+  - Bloodhound # 22020000 / 8030000
+  - White Reed # 9010000
+  - The Blade # 9020000
 
-# Notes
-- Garb icons now all use the base skin icon, this is to maintain visual uniformity as adding icons for all new garbs isn't possible right now.
-
+# Known issues
+- Garb menu icon for the new garbs is the base garb icon currently.
+- Hero select background not included for new garbs (they use the final vanilla garb bg)
+- Some garbs have missing faces (model needs to be edited to fix this)
