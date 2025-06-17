@@ -2,13 +2,22 @@
 # Changelog
 #-----------------------------------
 # Gameplay
-- Increased the potency of Weapon effects.
-- Increased the potency of Talisman effects.
-- All relic slots are white.
 - Added FP regeneration to Duchess, Revenant and Recluse.
 - Added damage boost to Revenant's summons.
 - Added max HP boost and HP regeneration to Revenant's summons.
 - Halved most player attack stamina costs.
+
+# Talismans
+- Increased the potency of Talisman effects.
+
+# Weapon Effects
+- Increased the potency of Weapon effects.
+
+# Relics
+- All relic slots are white.
+
+# Shifting Earth
+- Added the ability to toggle which Shifting Earth is active at the Expedition table.
 
 # Garbs
 - Rebalanced the murk prices for garbs. TODO
